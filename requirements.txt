@@ -1,1 +1,7 @@
 
+rich
+jinja2
+pillow
+
+Install:
+pip install -r requirements.txt
