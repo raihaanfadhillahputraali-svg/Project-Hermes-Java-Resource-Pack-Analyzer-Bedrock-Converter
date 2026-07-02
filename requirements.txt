@@ -1,4 +1,3 @@
-
 rich
 jinja2
 pillow
